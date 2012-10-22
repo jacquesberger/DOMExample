@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<zoo>
+    <zone nom="Secteur 1">
+        <animal>Singe</animal>
+        <animal>Mouton</animal>
+        <animal>Lapin</animal>
+    </zone>
+    <zone nom="Secteur 2">
+        <animal>Souris</animal>
+        <animal>Rat</animal>
+        <animal>Hamster</animal>
+    </zone>
+</zoo>
